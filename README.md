@@ -50,3 +50,8 @@ This repository contains code, notes, exercises and solutions for statistical me
 - [netCDF Operator (NCO)](http://nco.sourceforge.net/)
 - [Climate Data Operators (CDO)](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo#Documentation)
 
+## Resources
+
+| Name                                                 |  Summary                                      |
+|------------------------------------------------------|:---------------------------------------------:|
+|[Climate Data Guide](climatedataguide.ucar.edu)       | Community-authored guide for climate datasets |
