@@ -27,6 +27,7 @@ This repository contains code, notes, exercises and solutions for statistical me
 - Iris==2.0
 - Keras==2.0.6
 - matplotlib==2.0.2
+- matplotlib-venn==0.11.5
 - netCDF4==1.2.9
 - notebook==5.0.0
 - numpy==1.13.1
